@@ -11,4 +11,4 @@ IMAGE_PATH=/lustre/share/img/matlab_latest.sif
 ulimit -s unlimited
 ulimit -l unlimited
 cd ~/HPCTesting/matlab
-singularity run $IMAGE_PATH matlab -r test.m
+singularity exec $IMAGE_PATH matlab -r test
