@@ -1,0 +1,14 @@
+benchmark start : 2022/03/14 18:27:16
+system_configs
+
+x86_64
+scpufreq(current=3367.31271875, min=1200.0, max=3700.0)
+cpu_count: 96
+memory_available: 1376843177984
+gpu_configs
+
+Number of GPUs on current device : 1
+CUDA Version : 11.0
+Cudnn Version : 8002
+Device Name : Tesla V100-SXM3-32GB
+benchmark end : 2022/03/14 18:33:49

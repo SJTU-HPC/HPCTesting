@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#SBATCH -p dgx2
+#SBATCH -n 1
+#SBATCH --ntasks-per-node 1
+#SBATCH --cpus-per-task 6 
+#SBATCH --gres gpu:1
+#SBATCH -N 1
+
+
+
+singularity  run --nv   /lustre/share/singularity/modules/pytorch/1.6.0.sif python benchmark_models.py --folder v100 -w 10 -n 5  -b 12 -g 1 && &>/dev/null 
+
