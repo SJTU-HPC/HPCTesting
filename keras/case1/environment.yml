@@ -1,0 +1,17 @@
+name: kerastest
+channels:
+  - defaults
+dependencies:
+  - cudatoolkit=11.0
+  - python=3.8.5
+  - pip
+  - python-graphviz
+  - pydot
+  - pip: 
+    - tb-nightly
+    - cycler
+    - tensorflow-gpu==2.8.0
+    - numpy
+    - python-dateutil
+    - kiwisolver
+    - Pillow
