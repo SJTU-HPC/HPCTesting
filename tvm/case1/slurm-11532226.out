@@ -1,0 +1,39 @@
+One or more operators have not been tuned. Please tune your model for better performance. Use DEBUG logging level to see more details.
+{'mean': 592.0918963477015, 'median': 587.7139701507986, 'std': 10.555673599042604}
+class='n02123045 tabby, tabby cat' with probability=0.610551
+class='n02123159 tiger cat' with probability=0.367180
+class='n02124075 Egyptian cat' with probability=0.019365
+class='n02129604 tiger, Panthera tigris' with probability=0.001273
+class='n04040759 radiator' with probability=0.000261
+[Task  1/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task  1/25]  Current/Best:   13.20/  16.65 GFLOPS | Progress: (10/10) | 25.23 s Done.
+[Task  2/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task  2/25]  Current/Best:    2.80/   4.23 GFLOPS | Progress: (10/10) | 9.63 s Done.
+[Task  3/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task  3/25]  Current/Best:    6.52/  14.60 GFLOPS | Progress: (10/10) | 8.75 s Done.
+[Task  4/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task  4/25]  Current/Best:    9.50/  10.58 GFLOPS | Progress: (10/10) | 13.55 s Done.
+[Task  5/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task  5/25]  Current/Best:    4.57/   5.07 GFLOPS | Progress: (10/10) | 10.23 s Done.
+[Task  6/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task  6/25]  Current/Best:    7.26/   7.65 GFLOPS | Progress: (10/10) | 13.84 s Done.
+[Task  7/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task  7/25]  Current/Best:    7.59/  11.29 GFLOPS | Progress: (10/10) | 9.70 s Done.
+[Task  8/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task  8/25]  Current/Best:    4.35/   6.07 GFLOPS | Progress: (10/10) | 18.36 s[Task  9/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task  9/25]  Current/Best:    1.87/  11.38 GFLOPS | Progress: (10/10) | 17.26 s Done.
+[Task 10/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 10/25]  Current/Best:    5.37/   6.93 GFLOPS | Progress: (10/10) | 9.20 s Done.
+[Task 11/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 11/25]  Current/Best:    7.18/  13.66 GFLOPS | Progress: (10/10) | 10.43 s Done.
+[Task 12/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 12/25]  Current/Best:    8.19/   9.13 GFLOPS | Progress: (10/10) | 10.71 s Done.
+[Task 13/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s Done.
+[Task 13/25]  Current/Best:    4.75/   8.57 GFLOPS | Progress: (10/10) | 14.21 s Done.
+[Task 14/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 14/25]  Current/Best:    4.62/   6.48 GFLOPS | Progress: (10/10) | 18.91 s[Task 15/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 15/25]  Current/Best:    4.62/   8.71 GFLOPS | Progress: (10/10) | 16.30 s[Task 16/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s Done.
+ Done.
+[Task 16/25]  Current/Best:    2.46/   6.97 GFLOPS | Progress: (10/10) | 13.40 s Done.
+[Task 17/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 17/25]  Current/Best:    6.03/   9.68 GFLOPS | Progress: (10/10) | 11.69 s Done.
+[Task 18/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 18/25]  Current/Best:    5.10/   8.61 GFLOPS | Progress: (10/10) | 14.69 s Done.
+[Task 19/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 19/25]  Current/Best:    3.17/   4.48 GFLOPS | Progress: (10/10) | 15.68 s Done.
+[Task 20/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 20/25]  Current/Best:    3.59/   3.87 GFLOPS | Progress: (10/10) | 20.01 s[Task 21/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 21/25]  Current/Best:    3.69/   3.85 GFLOPS | Progress: (10/10) | 16.76 s Done.
+[Task 22/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 22/25]  Current/Best:    3.62/   6.11 GFLOPS | Progress: (10/10) | 12.55 s Done.
+[Task 23/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 23/25]  Current/Best:    2.89/   4.48 GFLOPS | Progress: (10/10) | 17.45 s Done.
+[Task 24/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 24/25]  Current/Best:    0.10/   0.11 GFLOPS | Progress: (10/10) | 11.98 s Done.
+[Task 25/25]  Current/Best:    0.00/   0.00 GFLOPS | Progress: (0/10) | 0.00 s[Task 25/25]  Current/Best:    0.06/  10.37 GFLOPS | Progress: (10/10) | 14.40 s Done.
+ Done.
+class='n02123045 tabby, tabby cat' with probability=0.610552
+class='n02123159 tiger cat' with probability=0.367180
+class='n02124075 Egyptian cat' with probability=0.019365
+class='n02129604 tiger, Panthera tigris' with probability=0.001273
+class='n04040759 radiator' with probability=0.000261
+optimized: {'mean': 518.929668366909, 'median': 512.8163313493133, 'std': 10.976080937596128}
+unoptimized: {'mean': 592.0918963477015, 'median': 587.7139701507986, 'std': 10.555673599042604}
